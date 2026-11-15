@@ -1,0 +1,27 @@
+[package]
+name = "northstar-files"
+version = "0.1.0"
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+eframe.workspace = true
+file-engine = { path = "../../crates/file-engine" }
+rfd.workspace = true
+tokio.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+directories.workspace = true
+open.workspace = true
+trash.workspace = true
+rhai.workspace = true
+chrono.workspace = true
+sys-locale.workspace = true
+
+[build-dependencies]
+winres = "0.1"
+
+[target.'cfg(windows)'.dependencies]
+winreg = "0.55"
+
