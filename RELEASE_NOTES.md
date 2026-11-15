@@ -14,3 +14,5 @@ Please report bugs and suggestions in GitHub Issues. Include your Windows versio
 ## Known limits
 
 The app is experimental. Large transfer queue controls, universal previews, NTFS permission editing, and file version history are not implemented. The uninstaller tool launches each application's registered uninstaller and cannot guarantee removal of every leftover file.
+
+SHA-256 checksums for both downloads are attached as SHA256SUMS.txt.
