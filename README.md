@@ -2,7 +2,7 @@
 
 **Experimental open-source file manager for Windows.** Built in Rust with a native egui interface. This project is still under active development and may contain bugs; please send feedback and reproducible bug reports.
 
-- [Download for Windows](https://github.com/D4nix1/Northstar-Files/releases/latest)
+- [Download for Windows](https://github.com/D4nix1/Northstar-Files/releases/tag/v0.1.0)
 - [Project website](https://d4nix1.github.io/Northstar-Files/)
 - [Report a bug or suggest an improvement](https://github.com/D4nix1/Northstar-Files/issues/new/choose)
 
@@ -22,7 +22,7 @@ Back up important files before testing. The uninstaller delegates to the command
 
 ## Install on Windows
 
-Download `Northstar-Files-Setup.exe` from [GitHub Releases](https://github.com/D4nix1/Northstar-Files/releases/latest). The installer places the app under Program Files, adds a Start menu shortcut, and offers a Desktop shortcut. The portable executable is also available in the release for evaluation.
+Download `Northstar-Files-Setup.exe` from [GitHub Releases](https://github.com/D4nix1/Northstar-Files/releases/tag/v0.1.0). The installer places the app under Program Files, adds a Start menu shortcut, and offers a Desktop shortcut. The portable executable is also available in the release for evaluation.
 
 ## Build from source
 
@@ -42,3 +42,4 @@ Please include Windows version, Northstar version, steps to reproduce, expected 
 ## License
 
 MIT. See [LICENSE-MIT](LICENSE-MIT).
+
